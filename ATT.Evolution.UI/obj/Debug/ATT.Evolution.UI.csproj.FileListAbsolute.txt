@@ -1,0 +1,16 @@
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\bin\Debug\ATT.Evolution.UI.exe.config
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\bin\Debug\ATT.Evolution.UI.exe
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\bin\Debug\ATT.Evolution.UI.pdb
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\bin\Debug\ATT.Evolution.Entities.dll
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\bin\Debug\ATT.Evolution.Entities.pdb
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\ATT.Evolution.UI.csprojResolveAssemblyReference.cache
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\MainWindow.g.cs
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\App.g.cs
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\ATT.Evolution.UI_MarkupCompile.cache
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\ATT.Evolution.UI_MarkupCompile.lref
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\MainWindow.baml
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\ATT.Evolution.UI.g.resources
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\ATT.Evolution.UI.Properties.Resources.resources
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\ATT.Evolution.UI.csproj.GenerateResource.Cache
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\ATT.Evolution.UI.exe
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.UI\obj\Debug\ATT.Evolution.UI.pdb

@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@using ATT.Evolution.Entities;
+@using System.Collections;
+@model List<ATT.Evolution.Entities.Being>
+
+<div class="jumbotron">
+    <h1>Evolution</h1>
+    <p class="lead"></p>
+</div>
+
+<div class="row">
+    <canvas id="universe" width="800" height="800"></canvas>
+    <script type="text/javascript">
+        
+        var canvas = document.getElementById("universe");
+        var ctx = canvas.getContext("2d");
+
+        ctx.fillStyle = "#FF0000";
+
+        ctx.moveTo(400, 400);
+        int firstLineLength = @Model[0].Cells[0].Genes[0].value;
+        ctx.lineTo()
+
+    </script>
+</div>

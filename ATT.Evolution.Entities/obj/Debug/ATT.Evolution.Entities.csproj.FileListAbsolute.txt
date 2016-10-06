@@ -1,0 +1,5 @@
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.Entities\bin\Debug\ATT.Evolution.Entities.dll
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.Entities\bin\Debug\ATT.Evolution.Entities.pdb
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.Entities\obj\Debug\ATT.Evolution.Entities.dll
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.Entities\obj\Debug\ATT.Evolution.Entities.pdb
+C:\Users\leeda_000\Documents\src\ATT.Evolution\ATT.Evolution\ATT.Evolution.Entities\obj\Debug\ATT.Evolution.Entities.csprojResolveAssemblyReference.cache
